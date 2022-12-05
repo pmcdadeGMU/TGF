@@ -2,12 +2,12 @@
   "Characters":
   [
     {
-		"Streamer":"PapaXilion",
-		"CharacterName":"Game Master/Dungeon Master",
+		"Player":"PapaXilion",
+		"Character":"Game Master/Dungeon Master",
 		"Twitch":"https://www.twitch.tv/PapaXilion",
 		"YouTube":"https://www.youtube.com/channel/UCEcpiH-EMQMtkSq0XIxvqwQ",
 		"Twitter":"https://twitter.com/PapaXilion",
-		"Character Sheet": "",
+		"CharacterSheet": "",
 		"CharImg":"https://github.com/pmcdadeGMU/DMPapa.png",
 		"CharLogo":"https://github.com/pmcdadeGMU/DMPapa.png",
 		"Level":"∞",
@@ -34,12 +34,12 @@
 		
 	},
 	{
-		"Streamer":"dollFATALE",
-		"CharacterName":"Casariel Silverbrow",
+		"Player":"dollFATALE",
+		"Character":"Casariel Silverbrow",
 		"Twitch":"https://www.twitch.tv/DollFatale",
 		"YouTube":"https://www.youtube.com/channel/UCf_BHja7BjzEeL1I5ERLrzQ",
 		"Twitter":"https://twitter.com/dollfatale",
-		"Character Sheet": "https://www.dndbeyond.com/characters/62764083",
+		"CharacterSheet": "https://www.dndbeyond.com/characters/62764083",
 		"CharImg":"https://github.com/pmcdadeGMU/Casariel_2.png",
 		"CharLogo":"https://github.com/pmcdadeGMU/Casariel.png",
 		"Level":"8",
@@ -65,7 +65,7 @@
 	},
 	{
 		"Player":"annepopp",
-		"CharacterName":"Karla Lilacheart",
+		"Character":"Karla Lilacheart",
 		"Twitch":"https://www.twitch.tv/annepopp",
 		"YouTube":"https://www.youtube.com/channel/UCY05JTVtmBz_Tl_-jTa1G0g",
 		"Twitter":"https://twitter.com/annepopforreal",
@@ -94,12 +94,12 @@
 		"Skills":"Mod	SKILL		BONUS\nDEX	Acrobatics	+4\nWIS	Animal Handling	+2\nINT	Arcana	+3\nSTR	Athletics	+0\nCHA	Deception	+7\nINT	History	+3\nWIS	Insight	+4\nCHA	Intimidation	+5\nINT	Investigation	+8\nWIS	Medicine	+2\nINT	Nature	+3\nWIS	Perception	+2\nCHA	Performance	+5\nCHA	Persuasion	+5\nINT	Religion	+3\nDEX	Sleight of Hand	+6\nDEX	Stealth	+9\nWIS	Survival	+2\n"
 	},
 	{
-		"Streamer":"Drunkratt",
-		"CharacterName":"Jon Verenthall",
+		"Player":"Drunkratt",
+		"Character":"Jon Verenthall",
 		"Twitch":"https://www.twitch.tv/drunkratt",
 		"YouTube":"https://www.youtube.com/@DrunkRat",
 		"Twitter":"https://twitter.com/DrunkratGame",
-		"Character Sheet": "https://www.dndbeyond.com/characters/63190830",
+		"CharacterSheet": "https://www.dndbeyond.com/characters/63190830",
 		"CharImg":"https://github.com/pmcdadeGMU/Jon_2.png",
 		"CharLogo":"https://github.com/pmcdadeGMU/Jon.png",
 		"Level":"7",
