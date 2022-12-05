@@ -11,7 +11,7 @@
 		"CharImg":"https://github.com/pmcdadeGMU/DMPapa.png",
 		"CharLogo":"https://github.com/pmcdadeGMU/DMPapa.png",
 		"Level":"∞",
-		"Race":"Game Master"
+		"Race":"Game Master",
 		"Class":"God",
 		"Sex": "∞",
 		"Str":"∞",
@@ -43,7 +43,7 @@
 		"CharImg":"https://github.com/pmcdadeGMU/Casariel_2.png",
 		"CharLogo":"https://github.com/pmcdadeGMU/Casariel.png",
 		"Level":"8",
-		"Race":"Aasimar"
+		"Race":"Aasimar",
 		"Class":"Cleric",
 		"Sex": "Female",
 		"Str":"9",
@@ -73,7 +73,7 @@
 		"CharImg":"https://github.com/pmcdadeGMU/Karla_2.png",
 		"CharLogo":"https://github.com/pmcdadeGMU/Karla.png",
 		"Level":"8",
-		"Race":"Lightfoot Halfling"
+		"Race":"Lightfoot Halfling",
 		"Class":"Bard",
 		"Sex": "Female",
 		"Str":"9",
@@ -103,7 +103,7 @@
 		"CharImg":"https://github.com/pmcdadeGMU/Jon_2.png",
 		"CharLogo":"https://github.com/pmcdadeGMU/Jon.png",
 		"Level":"7",
-		"Race":"Human"
+		"Race":"Human",
 		"Class":"Paladin 2/Warlock 5",
 		"Sex": "Male",
 		"Str":"13",
