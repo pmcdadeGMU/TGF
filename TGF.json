@@ -3,7 +3,7 @@
   [
     {
 		"Player":"PapaXilion",
-		"Character":"Game Master/Dungeon Master",
+		"CharacterName":"Game Master/Dungeon Master",
 		"Twitch":"https://www.twitch.tv/PapaXilion",
 		"YouTube":"https://www.youtube.com/channel/UCEcpiH-EMQMtkSq0XIxvqwQ",
 		"Twitter":"https://twitter.com/PapaXilion",
@@ -35,7 +35,7 @@
 	},
 	{
 		"Player":"dollFATALE",
-		"Character":"Casariel Silverbrow",
+		"CharacterName":"Casariel Silverbrow",
 		"Twitch":"https://www.twitch.tv/DollFatale",
 		"YouTube":"https://www.youtube.com/channel/UCf_BHja7BjzEeL1I5ERLrzQ",
 		"Twitter":"https://twitter.com/dollfatale",
@@ -65,7 +65,7 @@
 	},
 	{
 		"Player":"annepopp",
-		"Character":"Karla Lilacheart",
+		"CharacterName":"Karla Lilacheart",
 		"Twitch":"https://www.twitch.tv/annepopp",
 		"YouTube":"https://www.youtube.com/channel/UCY05JTVtmBz_Tl_-jTa1G0g",
 		"Twitter":"https://twitter.com/annepopforreal",
@@ -95,7 +95,7 @@
 	},
 	{
 		"Player":"Drunkratt",
-		"Character":"Jon Verenthall",
+		"CharacterName":"Jon Verenthall",
 		"Twitch":"https://www.twitch.tv/drunkratt",
 		"YouTube":"https://www.youtube.com/@DrunkRat",
 		"Twitter":"https://twitter.com/DrunkratGame",
